@@ -22,6 +22,7 @@ jobs:
         run:
           python3 -m pip install --upgrade pip
           pip install invoke pelican[markdown]
+          pelican content
       - name: move Deploy
         uses: JamesIves/github-pages-deploy-action@3.5.9
         with:
