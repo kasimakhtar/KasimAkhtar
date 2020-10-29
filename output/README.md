@@ -17,4 +17,6 @@ I am familiar with a number of languages at the moment, mostly python and bash, 
 &nbsp;
 
 ### [Workflow to build static site from gh-pages branch](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
-This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch. 
+This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch.
+
+### [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html) 
