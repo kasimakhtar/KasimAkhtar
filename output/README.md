@@ -1,5 +1,5 @@
 ## About Me
-================================================================================================
+
 
 Recently I completed the AWS Cloud Practitioner exam after a 3 months intensive program designed to take us from the basics of tech to the level of a junior cloud practitioner. The first half of the course focused on IT fundamentals. We were exposed to everything, from operating systems and linux, to security and networking, to python and CI/CD. The second half of course honed in on AWS, and equiped us with hands-on application of resources such as EC2, IAM, Cloud Formation, and Lambda. Here we were able to integrate skills we learnt from the first half of the course. Our instructor was particular in linking each area of the course to the workplace, and even approached the course as if we were in an IT job role. Remote learning due to the COVID lockdown had its challenges and some elements of the course had to be left out. Overall however, it was a positive experience as we made use of online communication, installing our own software, and troubleshooting any issues ourselves.  
 
@@ -13,8 +13,8 @@ I am familiar with a number of languages at the moment, mostly python and bash, 
 &nbsp;
 
 ## Projects
-================================================================================================
+
 &nbsp;
 
 ### [Workflow to build static site from gh-pages branch](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
-================================================================================================
+
