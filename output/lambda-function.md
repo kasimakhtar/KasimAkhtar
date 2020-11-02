@@ -52,10 +52,10 @@ def lambda_handler(event, context):
 
 NOTE: 
 
-- In order for the function to work, AWS Lambda needs the following permissions:
+* In order for the function to work, AWS Lambda needs the following permissions:
+ 
+  * AWSLambdaBasicExecutionRole
+  * AmazonSNSFullAccess
+  * AmazonS3FullAccess
 
-	- AWSLambdaBasicExecutionRole
-	- AmazonSNSFullAccess
-	- AmazonS3FullAccess
-
-- The function has S3 as a trigger but not SNS as a destination, the function includes code for SNS instead..
+* The function has S3 as a trigger but not SNS as a destination, the function includes code for SNS instead..
