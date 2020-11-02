@@ -20,4 +20,5 @@ I am familiar with a number of languages at the moment, mostly python and bash, 
 This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch.
 &nbsp;
 
-### [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html) 
+### [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html)
+This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with the word count of a text file. Uploading the file triggers the lambda function. The function counts the words and creates an SNS topic, which includes a message stating the word count of the file.
