@@ -31,7 +31,7 @@ def lambda_handler(event, context):
             word_count += len(line.split())
     # Send message
     response = sns_client.publish(
-        PhoneNumber= "+447392248644",
+        PhoneNumber= "number_as_string",
         Message = "The word count in the file" + filename + " is " + str(word_count) + " .",
         MessageAttributes={
             'AWS.SNS.SMS.SenderID': {
