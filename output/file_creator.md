@@ -31,9 +31,9 @@ do
 
 This is an example folder showing 25 empty files.
 
-![example](URL)
+![example](C:\Users\Owner\Documents\Kasim\AWS\blog\Articles\bash script\file creator image 1.MHT)
 
 
 This is the same folder after the script has been executed.
 
-![example](URL)
+![example](C:\Users\Owner\Documents\Kasim\AWS\blog\Articles\bash script\file creator image 2.MHT)
