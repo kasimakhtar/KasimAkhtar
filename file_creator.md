@@ -36,4 +36,4 @@ This is an example folder showing 25 empty files.
 
 This is the same folder after the script has been executed.
 
-![example](https://user-images.githubusercontent.com/68284738/98469410-4d177400-21d7-11eb-9d17-561cb37dd082.PNG)
+![example](https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG)
