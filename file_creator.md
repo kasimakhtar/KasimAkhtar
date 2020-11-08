@@ -33,7 +33,7 @@ This is an example folder showing 25 empty files.
 
 ![example](https://user-images.githubusercontent.com/68284738/98469424-59033600-21d7-11eb-9aec-16963be82efe.PNG =200x40) 
 
-<img src="C:\Users\Owner\Documents\Kasim\AWS\blog\Articles\bash script\example1.PNG" alt="image1" width="200"/>
+<img src="https://user-images.githubusercontent.com/68284738/98469424-59033600-21d7-11eb-9aec-16963be82efe.PNG" alt="image1" width="400"/>
 
 
 This is the same folder after the script has been executed.
@@ -41,4 +41,4 @@ This is the same folder after the script has been executed.
 
 ![example](https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG =200x40)
 
-<img src="C:\Users\Owner\Documents\Kasim\AWS\blog\Articles\bash script\example2.PNG" width="200"/>
+<img src="https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG" width="400"/>
