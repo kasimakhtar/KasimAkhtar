@@ -31,9 +31,14 @@ do
 
 This is an example folder showing 25 empty files.
 
-![example](https://user-images.githubusercontent.com/68284738/98469424-59033600-21d7-11eb-9aec-16963be82efe.PNG =100x20) 
+![example](https://user-images.githubusercontent.com/68284738/98469424-59033600-21d7-11eb-9aec-16963be82efe.PNG) 
+
+<img src="https://user-images.githubusercontent.com/68284738/98469424-59033600-21d7-11eb-9aec-16963be82efe.PNG" alt="image1" width="200"/>
 
 
 This is the same folder after the script has been executed.
 
-![example](https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG =100x20)
+
+![example](https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG)
+
+<img src="https://user-images.githubusercontent.com/68284738/98469574-610fa580-21d8-11eb-9c71-adaa0226a02d.PNG" alt="image2" width="200"/>
