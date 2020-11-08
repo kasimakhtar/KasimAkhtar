@@ -22,3 +22,7 @@ This workflow pushes content automatically to another branch and can be used to 
 
 ### [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html)
 This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with the word count of a text file. Uploading the file triggers the lambda function. The function counts the words and creates an SNS topic, which includes a message stating the word count of the file.
+&nbsp;
+
+###[Bash script to automatically create 25 new files in a folder](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
+This bash script is designed to automatically create 25 new files in a directory, each labelled with a number in ascending order. Towards the end of my recent AWS course, this was a challenge task set for us to complete.
