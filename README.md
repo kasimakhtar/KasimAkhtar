@@ -16,7 +16,7 @@ Over the next few years I would like to master the fundamentals of programming l
 &nbsp;
 [<img align="left" alt="AWS" width="26px" src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" />](https://aws.amazon.com)
 [<img align="left" alt="Python" width="26px" src="https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png" />](https://www.python.org)
-<img align="left" alt="Linux" width="26px" src="https://webforpc.com/wp-content/uploads/2018/01/linux-logo-image.jpg " />
+<img align="left" alt="Linux" width="26px" src="https://daveden.files.wordpress.com/2013/02/tux_inverted.jpg" />
 [<img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/128/38/38401.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/kasimakhtar/KasimAkhtar)
 [<img align="left" alt="JSON" width="26px" src="https://cdn0.iconfinder.com/data/icons/file-types-vol-5/64/json_file-512.png" />](http://www.json.org)
