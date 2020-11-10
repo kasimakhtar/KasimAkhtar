@@ -19,7 +19,7 @@ Over the next few years I would like to master the fundamentals of programming l
 [<img align="left" alt="Python" width="35px" src="https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png" />](https://www.python.org)
 <img align="left" alt="Linux" width="30px" src="https://daveden.files.wordpress.com/2013/02/tux_inverted.jpg" />
 [<img align="left" alt="CI/CD" width="26px" src="https://zeptosystems.com/wp-content/uploads/2018/07/devops-icon-1024x580.png" />]
-[<img align="left" alt="GitHub" width="30px" src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" />](https://github.com/kasimakhtar/KasimAkhtar)
+[<img align="left" alt="GitHub" width="65px" src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" />](https://github.com/kasimakhtar/KasimAkhtar)
 &nbsp;
 
 &nbsp;
