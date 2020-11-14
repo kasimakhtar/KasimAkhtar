@@ -47,4 +47,4 @@ This bash script is designed to automatically create 25 new files in a directory
 &nbsp;
 
 ### [Python code to calculate sum of a series](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
-This function creates a specific series up to a parameter and calculates the sum of the series. 
+This function creates a specific series up to a given parameter and calculates the sum of the series. 
