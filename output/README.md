@@ -44,3 +44,7 @@ This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with th
 
 ### [Bash script to automatically create 25 new files in a folder](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
 This bash script is designed to automatically create 25 new files in a directory, each labelled with a number in ascending order. Towards the end of my recent AWS course, this was a challenge task set for us to complete.
+&nbsp;
+
+### [Python code to calculate sum of a series](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
+This function creates a specific series up to a parameter and calculates the sum of the series. 

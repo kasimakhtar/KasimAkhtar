@@ -1,4 +1,4 @@
-## Python code to calculate sum of series
+## Python code to calculate sum of a series
 
 This python function takes a number and creates a specific series, and then returns the sum of the series. The series always follows the pattern: 1, 1/4, 1/7, 1/10, 1/13, etc, and carries on for n number of times I created this function as part of a [CodeWars challenge](https://www.codewars.com/kata/555eded1ad94b00403000071).
 
