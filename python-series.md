@@ -36,6 +36,7 @@ Overall the function executes properly however there are a couple of improvement
 
 |  n  |  0  |  1  |  2  |  3  |  4  |  5  |
 |  X<sub>n</sub>  |  1  |  4  |  7  |  10  |  13  |  16  |
+
 &nbsp;
 
 From this table the formula included in the code can be deduced: X<sub>n</sub> = 2n + (n + 1). I would like to find a solution that doesn't rely on an external maths calculation, but instead on python code.  
