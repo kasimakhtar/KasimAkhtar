@@ -15,7 +15,7 @@ Over the next few years I would like to master the fundamentals of programming l
 ## Languages and Tools
 &nbsp;
 
-[<img align="left" alt="AWS" width="65px" src="https://attckcom-production.s3.amazonaws.com/uploads/2017/03/aws-white.png" />](https://aws.amazon.com)
+[<img align="left" alt="AWS" width="100px" src="https://attckcom-production.s3.amazonaws.com/uploads/2017/03/aws-white.png" />](https://aws.amazon.com)
 
 [<img align="left" alt="CI/CD" width="30px" src="https://tech.jumia.com/img/posts/diagram-01.png" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
 
