@@ -1,11 +1,11 @@
 ## About Me
 &nbsp;
 
-Recently I completed the AWS Cloud Practitioner exam, after a 3 month intensive program designed to take us from the basics of tech, to the level of a junior cloud practitioner. The first half of the course focused on IT fundamentals. We were exposed to everything from operating systems and linux, to security and networking, to python and CI/CD. The second half of course honed in on AWS, and equipped us with hands-on application of resources such as EC2, IAM, Cloud Formation, and Lambda. Here we were able to integrate skills we learnt from the first half of the course. Our instructor was particular in linking each area of the course to the workplace, and even approached the course as if we were in an IT job role. Remote learning due to the COVID lockdown had its challenges and some elements of the course had to be left out. Overall however, it was a positive experience as we made use of online communication, installing software on our own, and troubleshooting any issues ourselves.
+Recently, I completed the AWS Cloud Practitioner exam, after a 3 month intensive program designed to take us from the basics of tech, to the level of a junior cloud practitioner. The first half of the course focused on IT fundamentals.I wasexposed to everything from operating systems and Linux, to security and networking, to Python and CI/CD. The second half of course honed in on AWS, and equipped me with hands-on application of resources such as EC2, IAM, Cloud Formation, and Lambda. Here I was able to integrate skills I learnt from the first half of the course. My instructor was particular in linking each area of the course to the workplace, and even approached the course as it was an IT job role. Additionally, due to the COVID lockdown, I made use of online communication, installing software on my own, and troubleshooting any issues myself.
 
 The course provided a foundation to further develop in keys areas of DevOps and Cloud Operations. Since completion of the course in early November 2020, I have been working on my language skills, particularly python and bash (working towards RHCSA exam). I have also been further researching AWS resources using AWS whitepapers and applying these language skills to the services I have access to.
 
-Over the next few years I would like to master the fundamentals of programming languages, so that I can more easily learn a variety of programming languages in the future. With regards to cloud resources, I would like to become more skilled in their usage, especially archetitecting solutions and automation. I am also interested to learn more about ansible, terraform, and docker and other DevOps processes.
+Over the next few years, I would like to master the fundamentals of programming languages, so that I can more easily learn a variety of programming languages in the future. With regards to cloud resources, I would like to become more skilled in their usage, especially architecting solutions and automation. I am also interested to learn more about ansible, terraform, and docker and other DevOps processes.
 &nbsp;
 
 &nbsp;
@@ -17,7 +17,7 @@ Over the next few years I would like to master the fundamentals of programming l
 
 [<img align="left" alt="AWS" width="100px" src="https://attckcom-production.s3.amazonaws.com/uploads/2017/03/aws-white.png" />](https://aws.amazon.com)
 
-[<img align="left" alt="CI/CD" width="30px" src="https://tech.jumia.com/img/posts/diagram-01.png" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
+[<img align="left" alt="CI/CD" width="45px" src="https://tech.jumia.com/img/posts/diagram-01.png" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
 
 [<img align="left" alt="Linux" width="30px" src="https://daveden.files.wordpress.com/2013/02/tux_inverted.jpg" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
 
