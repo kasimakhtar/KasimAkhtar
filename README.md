@@ -23,7 +23,7 @@ Over the next few years, I would like to master the fundamentals of programming 
 
 [<img align="left" alt="Python" width="50px" src="https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png" />](https://www.python.org)
 
-[<img align="left" alt="GitHub" width="50px" src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" />](https://github.com/kasimakhtar/KasimAkhtar)
+[<img align="left" alt="GitHub" width="45px" src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" />](https://github.com/kasimakhtar/KasimAkhtar)
 &nbsp;
 
 &nbsp;
