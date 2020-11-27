@@ -1,6 +1,6 @@
 ## Workflow to build static site from gh-pages branch
 
-This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch. The workflow is based on JamesIves/github-pages-deploy-action@3.5.9 however I have adapted it to a pelican static site. 
+This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch. The workflow is based on [JamesIves's action](https://github.com/JamesIves/github-pages-deploy-action) however I have adapted it to a pelican static site. 
 
 
 
