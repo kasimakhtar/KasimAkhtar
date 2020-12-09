@@ -50,5 +50,5 @@ This bash script is designed to automatically create 25 new files in a directory
 This function creates a specific series up to a given parameter and calculates the sum of the series. The series follows the pattern: 1, 1/4, 1/7, 1/10... and so on for "n" number of times.
 &nbsp;
 
-###[Python code to check if password is valid](https://kasimakhtar.github.io/kasimakhtar/password-check.html)
+### [Python code to check if password is valid](https://kasimakhtar.github.io/kasimakhtar/password-check.html)
 This function checks whether a password is strong enough or not. The password is passed into the function as a string and the function either returns "valid" or "invalid".
