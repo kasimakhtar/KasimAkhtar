@@ -1,6 +1,6 @@
-## Function to check if password is valid
+## Python code to check if password is valid
 
-This is a simple function that is designed for a [CodeWar challenge](https://www.codewars.com/kata/57e35f1bc763b8ccce000038) and checks whether a password is strong enough or not. It takes a string as an arguement and returns either "valid" or "not valid" depending on whether the password is or isn't in line with the following requirements:
+This function that is designed for a [CodeWar challenge](https://www.codewars.com/kata/57e35f1bc763b8ccce000038) and checks whether a password is strong enough or not. It takes a string as an arguement and returns either "valid" or "not valid" depending on whether the password is or isn't in line with the following requirements:
 
 * Is between 8-20 characters
 
@@ -22,7 +22,4 @@ def check_password(s):
       return "not valid"
 
 ~~~
-
-
-The idea for this function is a [CodeWars challenge](https://www.codewars.com/kata/57e35f1bc763b8ccce000038).
 
