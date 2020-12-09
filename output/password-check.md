@@ -6,7 +6,7 @@ This function that is designed for a [CodeWar challenge](https://www.codewars.co
 
 * Is made up of only uppercase letters, lowercase letters, numbers, special characters (!@#$%^&*), and contains at least one of each of these categories
 
-[CodeWars challenge](https://www.codewars.com/kata/57e35f1bc763b8ccce000038).
+
 ~~~
 
 def check_password(s):
