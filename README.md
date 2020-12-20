@@ -5,7 +5,7 @@ Recently, I completed the AWS Cloud Practitioner exam, after a 3 month intensive
 
 The course provided a foundation to further develop in keys areas of DevOps and Cloud Operations. Since completion of the course in early November 2020, I have been working on my language skills, particularly python and bash (working towards RHCSA exam). I have also been further researching AWS resources using AWS whitepapers and applying these language skills to the services I have access to.
 
-Over the next few years, I would like to master the fundamentals of programming languages, so that I can more easily learn a variety of programming languages in the future. With regards to cloud resources, I would like to become more skilled in their usage, especially architecting solutions and automation. I am also interested to learn more about ansible, terraform, and docker and other DevOps processes.
+Over the next few years, I would like to master the fundamentals of programming, so that I can more easily learn a variety of programming languages in the future. With regards to cloud resources, I would like to become more skilled in their usage, especially architecting solutions and automation. I am also interested to learn more about ansible, terraform, docker and other DevOps processes.
 &nbsp;
 
 &nbsp;
