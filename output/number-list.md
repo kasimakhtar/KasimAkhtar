@@ -6,13 +6,18 @@ This code lets you increase the range of a list of consecutive numbers to whatev
 
 list = [1, 2, 3, 4, 5]
 n = list[-1]
-desired_range = 100
+desired_range = 12
 for i in list:
   if n < desired_range:
     n += 1
     list.append(n)
-for i in list:
-  print(i)
+print(list)
 
 ~~~
-      
+
+Output:
+~~~
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+~~~
