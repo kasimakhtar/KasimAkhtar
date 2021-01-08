@@ -52,3 +52,7 @@ This function creates a specific series up to a given parameter and calculates t
 
 ### [Python code to check if password is valid](https://kasimakhtar.github.io/kasimakhtar/password-check.html)
 This function checks whether a password is strong enough or not. The password is passed into the function as a string and the function either returns "valid" or "invalid".
+&nbsp;
+
+### [Python code to increase the number range in a list](https://kasimakhtar.github.io/kasimakhtar/number-list.html)
+This code lets you increase a list of numbers to high a number you want. i.e. if you have a list 1,2,3...10, you can easily increase it to 1,2,3...20.
