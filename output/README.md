@@ -19,7 +19,7 @@ Over the next few years, I would like to master the fundamentals of programming,
 
 [<img align="left" alt="CI/CD" width="45px" src="https://tech.jumia.com/img/posts/diagram-01.png" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
 
-[<img align="left" alt="Linux" width="40px" src="https://daveden.files.wordpress.com/2013/02/tux_inverted.jpg" />](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
+[<img align="left" alt="Linux" width="40px" src="https://daveden.files.wordpress.com/2013/02/tux_inverted.jpg" />](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
 
 [<img align="left" alt="Python" width="50px" src="https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png" />](https://www.python.org)
 
