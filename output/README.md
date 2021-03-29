@@ -35,24 +35,15 @@ Over the next few years, I would like to master the fundamentals of programming,
 &nbsp;
 
 ### [Workflow to build static site from gh-pages branch](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
-This workflow pushes content automatically to another branch and can be used to add content to gh-pages when building a site. When writing the script, I had a pelican static site that was built from my gh-pages branch. The workflow was designed so that my gh-pages branch would mirror the output directory of my master branch.
 &nbsp;
 
 ### [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html)
-This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with the word count of a text file. Uploading the file triggers the lambda function. The function counts the words and creates an SNS topic, which includes a message stating the word count of the file.
 &nbsp;
 
 ### [Bash script to automatically create 25 new files in a folder](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
-This bash script is designed to automatically create 25 new files in a directory, each labelled with a number in ascending order. Towards the end of my recent AWS course, this was a challenge task set for us to complete.
 &nbsp;
 
-### [Python code to calculate sum of a series](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
-This function creates a specific series up to a given parameter and calculates the sum of the series. The series follows the pattern: 1, 1/4, 1/7, 1/10... and so on for "n" number of times.
+### [Various Python Code](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
 &nbsp;
 
-### [Python code to check if password is valid](https://kasimakhtar.github.io/kasimakhtar/password-check.html)
-This function checks whether a password is strong enough or not. The password is passed into the function as a string and the function either returns "valid" or "invalid".
-&nbsp;
 
-### [Python code to increase the number range in a list](https://kasimakhtar.github.io/kasimakhtar/number-list.html)
-This code lets you increase a list of numbers to high a number you want. i.e. if you have a list 1,2,3...10, you can easily increase it to 1,2,3...20.
