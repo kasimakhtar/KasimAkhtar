@@ -7,18 +7,12 @@ This python function takes a number and creates a specific series, and then retu
 
 def series_sum(n):
   
-  # Start by creating a list for the series
   x = []
-  
-  # Add the series values to the list
   for i in range(n):
     y = (i * 2 + (i + 1))**-1
     x.append(y)
-  
-  # Add the series together
   m = round(sum(x), 2)
-  
-  # Specify the different scenarios
+ 
   if n <= 0:
     print("0.00")
   elif n == 1:
@@ -29,18 +23,62 @@ def series_sum(n):
 ~~~
 
 
+## Python code to check if password is valid
+
+This function is designed for a [CodeWar challenge](https://www.codewars.com/kata/57e35f1bc763b8ccce000038) and checks whether a password is strong enough or not. It takes a string as an arguement and returns either "valid" or "not valid" depending on whether the password is or isn't in line with the following requirements:
+
+* Is between 8-20 characters
+
+* Is made up of only uppercase letters, lowercase letters, numbers, special characters (!@#$%^&*), and contains at least one of each of these categories
 
 
-Overall the function executes properly however there are a couple of improvements I would like to make to this in the future. Firstly, the function relies on a maths calculation based off of a formula that I made for the function. 
-&nbsp;
+~~~
 
-|  n  |  0  |  1  |  2  |  3  |  4  |  5  |
-|  X<sub>n</sub>  |  1  |  4  |  7  |  10  |  13  |  16  |
+def check_password(s):
+  special = ["!", "@", "$", "%", "^", "&", "*"]
+  for i in special:
+    if i in s:
+      if any(char.isdigit() for char in s):
+        if any(char.isupper() for char in s):
+          if any(char.islower() for char in s):
+            if len(s) >= 8 and len(s) <= 20:
+              return "valid"
+    else:
+      return "not valid"
 
-&nbsp;
+~~~
 
-From this table the formula included in the code can be deduced: X<sub>n</sub> = 2n + (n + 1). I would like to find a solution that doesn't rely on an external maths calculation, but instead on python code.  
+## Python code to increase the number range in a list
 
-Secondly, I would like to find a solution that doesn't specify three scenarios, but instead applies one method to all arguements, and produces the correct output for it. 
+This code lets you increase the range of a list of numbers to whatever desired range you'd need. You can also change the increase in the sequence by changing last = last*2 to some other change in the last item.
+
+~~~
+
+list = [1, 2]
+*rest, last = list
+desired_range = 100
+for i in list:
+  if last < desired_range:
+    last = last*2
+    list.append(last)
+for i in list:
+  if i > desired_range:
+    list.remove(i)
+print(list)
+
+~~~
+
+Output:
+~~~
+
+
+[1, 2, 4, 8, 16, 32, 64]
+
+
+~~~
+
+
+
+
 
 
