@@ -21,7 +21,8 @@ def series_sum(n):
     print(str(m))
 
 ~~~
-
+&nbsp;
+&nbsp;
 
 ## Python code to check if password is valid
 
@@ -30,7 +31,6 @@ This function is designed for a [CodeWar challenge](https://www.codewars.com/kat
 * Is between 8-20 characters
 
 * Is made up of only uppercase letters, lowercase letters, numbers, special characters (!@#$%^&*), and contains at least one of each of these categories
-
 
 ~~~
 
@@ -47,7 +47,8 @@ def check_password(s):
       return "not valid"
 
 ~~~
-
+&nbsp;
+&nbsp;
 ## Python code to increase the number range in a list
 
 This code lets you increase the range of a list of numbers to whatever desired range you'd need. You can also change the increase in the sequence by changing last = last*2 to some other change in the last item.
@@ -71,9 +72,7 @@ print(list)
 Output:
 ~~~
 
-
 [1, 2, 4, 8, 16, 32, 64]
-
 
 ~~~
 
