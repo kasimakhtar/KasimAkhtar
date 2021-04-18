@@ -40,9 +40,9 @@ Generation have provided me with a good foundation to further develop in key are
 &nbsp;
 
 ## [Bash script to automatically create 25 new files in a folder](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
+This bash script is written for a directory that is reserved for a specific set of files, all with the same names, but with each new file ending in an increasing number to uniquely identify them. The script creates additional files, each with a unique number.
 &nbsp;
-
 ## [Various Python Code](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
 &nbsp;
-
+This post includes some Python CodeWar challenges that I found interesting, and was able to use elsewhere. CodeWars has been a really useful way for me to grow in my knowledge of Python, in a fun and challenging way.
 
