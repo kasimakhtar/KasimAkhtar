@@ -1,7 +1,6 @@
 ## Lambda function for word count
 
-This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with the word count of a text file. Uploading the file triggers the lambda function. The function counts the words and creates an SNS topic, which includes a message stating the word count of the file. This code incorporates [Emre Yilmaz's code](https://blog.shikisoft.com/send-sms-with-sns-aws-lambda-python/) with aspects of [Chirag Rathod's code](https://github.com/srcecde/aws-tutorial-code/blob/master/lambda/lambda_read_file_s3_trigger.py).
-
+This function intregrates AWS S3, AWS Lambda and AWS SNS, to send an SMS with the word count of a text file. Uploading the file triggers the lambda function. The function counts the words and creates an SNS topic, which includes a message stating the word count of the file.
 
 ~~~
 
