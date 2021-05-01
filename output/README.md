@@ -9,7 +9,6 @@ Generation have provided me with a good foundation to further develop in key are
 
 &nbsp;
 
-&nbsp;
 
 # Languages and Tools
 &nbsp;
