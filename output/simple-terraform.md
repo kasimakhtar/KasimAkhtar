@@ -3,9 +3,7 @@
 Terraform is an infastructure provisioning tool that is cloud agnostic. It is an example of infastructure as a code (IaC), where you describe what your environment looks like, and then use the 'apply' command to execute. Manually building s cloud architecture can be time consuming, prone to error, and is not easily repeatable. Automation with IaC saves time and reduces human error.
 &nbsp;
 ~~~
-
- 
-" {
+provider "aws" {
     region = "us-east-1"
 }
 
