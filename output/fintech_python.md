@@ -1,7 +1,9 @@
 ## Python in financial market analysis
 
 
-This is a python file to analyze data in the financial markets. It converts the raw data to a python dataframe using pandas. Then, using talib, a technical calculation is applied to the data, in this case, the ADX calculation. An ADX greater than 25 is considered a useful indicator of a trend in the data. The number of rows where the ADX is greater than 25 is returned as a percentage of the total number of rows in the dataframe. This percentage can then be used to assess the usefulness of the technical indicator in the question (in this case, the ADX). In another post, I show a bash script that can run this python file on a large number of datafiles at once.
+This is a python file to analyze data in the financial markets. It converts the raw data to a python dataframe using pandas. Then, using talib, a technical calculation is applied to the data, in this case, the ADX calculation. An ADX greater than 25 is considered a useful indicator of a trend in the data. The number of rows where the ADX is greater than 25 is returned as a percentage of the total number of rows in the dataframe. This percentage can then be used to assess the usefulness of the technical indicator in the question (in this case, the ADX). In another post, I show a bash script that can run this python file on a large number of datafiles at once. The sample data used in the code can be downloaded from this website:
+
+https://firstratedata.com/it/futures
 
 
 ~~~
