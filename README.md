@@ -31,13 +31,4 @@ Generation have provided me with a good foundation to further develop in key are
 # Pick a topic
 &nbsp;
 
-## AWS
-&nbsp;
-&nbsp;
-## Python
-&nbsp;
-&nbsp;
-## Bash
-&nbsp;
-&nbsp;
-## Misc
+## AWS     Python      Bash      Misc

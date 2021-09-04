@@ -1,6 +1,6 @@
 ## Bash sed command in a for loop
 &nbsp;
-This bash script works with this [python file](https://kasimakhtar.github.io/kasimakhtar/fintech_python.html). In the python file, the name of the datafile is mentioned. This script assumes you have a directory with lots of different datfiles. Rather than manually changing the datafile name in the python file, this bash script automates the process of changing and executing the python file each time. The commands for this are contained in a 'loop' function, and the output is stored in the 'list' array. 
+This bash script works with this [python file](https://kasimakhtar.github.io/kasimakhtar/fintech_python.html). In the python file, the name of the datafile is mentioned. This script assumes you have a directory with lots of different datafiles. Rather than manually changing the datafile name in the python file, this bash script automates the process of changing and executing the python file each time. The commands for this are contained in a 'loop' function, and the output is stored in the 'list' array. 
 
 ~~~
 
