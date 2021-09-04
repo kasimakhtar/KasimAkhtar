@@ -32,14 +32,8 @@ Generation have provided me with a good foundation to further develop in key are
 &nbsp;
 
 
-li
-{
-  display:inline-block;
-}
 
-<ul>
-<li><a href="https://kasimakhtar.github.io/kasimakhtar/AWS.html">AWS</a></li>
-<li><a href="https://kasimakhtar.github.io/kasimakhtar/Python.html">Python</a></li>
-<li><a href="https://kasimakhtar.github.io/kasimakhtar/Bash.html">Bash</a></li>
-<li><a href="https://kasimakhtar.github.io/kasimakhtar/Misc.html">Misc</a></li>
-</ul>
+
+
+
+<h2 style="font-family:tempus sans itc;"><a href="https://kasimakhtar.github.io/kasimakhtar/AWS.html">AWS</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Python.html">Python</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Bash.html">Bash</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Misc.html">Misc</a></h2>
