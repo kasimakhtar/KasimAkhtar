@@ -28,20 +28,16 @@ Generation have provided me with a good foundation to further develop in key are
 
 &nbsp;
 
-# Projects
+# Pick a topic
+&nbsp;
 
+## AWS
 &nbsp;
-## [Terraform script to build VPC and EC2 instance](https://kasimakhtar.github.io/kasimakhtar/simple-terraform.html)
-This terraform script creates a basic cloud architecture, including a VPC, Subnet, Internet Gateway, and EC2 Instance. When executed, you can SSH into the Linux instance, provided you have a valid key pair.
 &nbsp;
-## [Lambda function for word count](https://kasimakhtar.github.io/kasimakhtar/lambda-function.html)
-This mini project uses multiple AWS services together in order to send a text message to notify about a new upload to S3. In this example, the message sent includes the word count of text files.
+## Python
 &nbsp;
-## [Bash script to automatically create 25 new files in a folder](https://kasimakhtar.github.io/kasimakhtar/file_creator.html)
-This bash script is written for a directory that is reserved for a specific set of files, all with the same names, but with each new file ending in an increasing number to uniquely identify them. The script creates additional files, each with a unique number.
 &nbsp;
-## [Various Python Code](https://kasimakhtar.github.io/kasimakhtar/python-series.html)
-This post includes some Python CodeWar challenges that I found interesting, and was able to use elsewhere. CodeWars has been a really useful way for me to grow in my knowledge of Python, in a fun and challenging way.
+## Bash
 &nbsp;
-## [Workflow to build static site from gh-pages branch](https://kasimakhtar.github.io/kasimakhtar/CI-CD-workflow.html)
-This GitHub workflow is an example of CI/CD. It pushes content from the master branch to the gh-pages branch, which the static website is being built from.
+&nbsp;
+## Misc
