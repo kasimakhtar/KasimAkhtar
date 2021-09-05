@@ -34,14 +34,14 @@ Generation have provided me with a good foundation to further develop in key are
 <h2 style="font-family:tempus sans itc;"><a href="https://kasimakhtar.github.io/kasimakhtar/AWS.html">AWS</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Python.html">Python</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Bash.html">Bash</a> <a href="https://kasimakhtar.github.io/kasimakhtar/Misc.html">Misc</a></h2>
 
 
-
+<p style="font-size:28px ;">
 <h2 style="font-family:tempus sans itc;"><a href=" https://kasimakhtar.github.io/kasimakhtar/AWS.html ">AWS </a></h2>
 &nbsp;
 <h2 style="font-family:tempus sans itc;"><a href=" https://kasimakhtar.github.io/kasimakhtar/Python.html.html ">Python </a></h2>
 &nbsp;
 <h2 style="font-family:tempus sans itc;"><a href=" https://kasimakhtar.github.io/kasimakhtar/Bash.html ">Bash </a></h2>
 &nbsp;
-<h2 style="font-family:tempus sans itc;"><a href=" https://kasimakhtar.github.io/kasimakhtar/Misc.html ">Misc </a></h2>
+<h2 style="font-family:tempus sans itc;"><a href=" https://kasimakhtar.github.io/kasimakhtar/Misc.html ">Misc </a></h2></p>
 &nbsp;
 
 
