@@ -45,7 +45,7 @@ Generation have provided me with a good foundation to further develop in key are
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="  https://kasimakhtar.github.io/kasimakhtar/Python.html.html  ">Python </a>
+<a href="  https://kasimakhtar.github.io/kasimakhtar/Python.html  ">Python </a>
 &nbsp;
 &nbsp;
 &nbsp;
