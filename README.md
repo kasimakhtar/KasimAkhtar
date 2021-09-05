@@ -40,13 +40,13 @@ Generation have provided me with a good foundation to further develop in key are
 
 
 <p style="font-size:28px ;">
-<a href=" https://kasimakhtar.github.io/kasimakhtar/AWS.html ">AWS </a>
+<a href="  https://kasimakhtar.github.io/kasimakhtar/AWS.html  ">AWS </a>
 &nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Python.html.html ">Python </a>
+<a href="  https://kasimakhtar.github.io/kasimakhtar/Python.html.html  ">Python </a>
 &nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Bash.html ">Bash </a>
+<a href="  https://kasimakhtar.github.io/kasimakhtar/Bash.html  ">Bash </a>
 &nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Misc.html ">Misc </a></p>
+<a href="  https://kasimakhtar.github.io/kasimakhtar/Misc.html  ">Misc </a></p>
 &nbsp;
 
 
