@@ -32,15 +32,6 @@ Generation have provided me with a good foundation to further develop in key are
 &nbsp;
 
 
+## [   AWS   ](<https://kasimakhtar.github.io/kasimakhtar/AWS.html>)     [   Python   ](<https://kasimakhtar.github.io/kasimakhtar/Python.html>)      [   Bash   ](<https://kasimakhtar.github.io/kasimakhtar/Bash.html>)      [   Misc   ](<https://kasimakhtar.github.io/kasimakhtar/Misc.html>)
 
 
-
-
-<a href=" https://kasimakhtar.github.io/kasimakhtar/AWS.html ">AWS </a>
-&nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Python.html.html ">Python </a>
-&nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Bash.html ">Bash </a>
-&nbsp;
-<a href=" https://kasimakhtar.github.io/kasimakhtar/Misc.html ">Misc </a>
-&nbsp;
