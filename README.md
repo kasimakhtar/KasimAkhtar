@@ -21,7 +21,6 @@ Generation have provided me with a good foundation to further develop in key are
 
 [<img align="left" alt="Python" width="50px" src="https://www.rogerperkin.co.uk/wp-content/uploads/2016/12/python-transparent-logo.png" />](https://kasimakhtar.github.io/kasimakhtar/Python.html)
 
-[<img align="left" alt="GitHub" width="45px" src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" />]
 &nbsp;
 
 &nbsp;
