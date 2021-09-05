@@ -43,10 +43,16 @@ Generation have provided me with a good foundation to further develop in key are
 <a href="  https://kasimakhtar.github.io/kasimakhtar/AWS.html  ">AWS </a>
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 <a href="  https://kasimakhtar.github.io/kasimakhtar/Python.html.html  ">Python </a>
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 <a href="  https://kasimakhtar.github.io/kasimakhtar/Bash.html  ">Bash </a>
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 <a href="  https://kasimakhtar.github.io/kasimakhtar/Misc.html  ">Misc </a></p>
