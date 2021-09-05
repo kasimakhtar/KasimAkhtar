@@ -31,7 +31,7 @@ Generation have provided me with a good foundation to further develop in key are
 # Pick a topic
 &nbsp;
 
-<h2 style="font-family:tempus sans itc;"><a href="   https://kasimakhtar.github.io/kasimakhtar/AWS.html   ">AWS</a> <a href="   https://kasimakhtar.github.io/kasimakhtar/Python.html   ">Python</a> <a href="   https://kasimakhtar.github.io/kasimakhtar/Bash.html   ">Bash</a> <a href="   https://kasimakhtar.github.io/kasimakhtar/Misc.html   ">Misc</a></h2>
+<h2 style="font-family:tempus sans itc;"><a href="https://kasimakhtar.github.io/kasimakhtar/AWS.html">AWS</a>      <a href="https://kasimakhtar.github.io/kasimakhtar/Python.html">Python</a>      <a href="https://kasimakhtar.github.io/kasimakhtar/Bash.html">Bash</a>      <a href="https://kasimakhtar.github.io/kasimakhtar/Misc.html">Misc</a></h2>
 
 
 
